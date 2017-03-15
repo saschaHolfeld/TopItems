@@ -4,5 +4,6 @@
         "namespace"         :"TopItems",
         "author"            :"Sascha Holfeld",
         "type"              :"template",
-        "serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider"
+        "serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider",
+    		"shortDescription" : {"de": "","en": ""}
     }
